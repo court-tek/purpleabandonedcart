@@ -1,2 +1,1 @@
-# taxnewsletter
-# purplewelcome
+# purple abandoned cart email
